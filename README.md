@@ -75,4 +75,4 @@ RegisterNumber:24008491
 ![image](https://github.com/user-attachments/assets/8904a0c1-f7ea-41c2-9e4a-f4e70e5fd129)
 
 **RESULTS**
-JK flipflop using verilog is verified.
+JK flipflop using verilog is verified. 
