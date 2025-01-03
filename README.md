@@ -42,7 +42,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
-
+```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
 JK FLIPFLOP USING IF ELSE STATEMENT
@@ -63,6 +63,7 @@ module jk_ff (j, k, clk, rst, q);
       q <= ~q; // Toggle
   end
 endmodule
+```
 Developed by:A.DIVIYADHARSHINI
 RegisterNumber:24008491
 
